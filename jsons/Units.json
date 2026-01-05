@@ -1,3 +1,3 @@
 [
-{ "name": "Road Worker", "unitType": "Civilian", "movement": 2, "cost": 35, "uniques": ["Can build [Road] improvements on tiles", "Can build [Railroad] improvements on tiles", "Automation is a primary action"], },
+{ "name": "Road Worker", "unitType": "Civilian", "movement": 2, "cost": 35, "uniques": ["Can build [Road] improvements on tiles", "Can build [Railroad] improvements on tiles", "Automation is a primary action"] },
 ]
